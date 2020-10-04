@@ -1,10 +1,11 @@
 {
   "name": "kai",
-  "version": "1.0.0",
+  "version": "0.15.0",
   "description": "KaiBot remade in JS",
   "main": "main.js",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "discord.js": "^12.3.1",
+    "sqlite3": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
