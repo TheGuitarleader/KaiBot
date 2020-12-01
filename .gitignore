@@ -1,4 +1,8 @@
+commands/restart.js
+textfiles
 config.json
-changelog.txt
 kai_data.json
 KaiData.db
+commands
+main.js
+client
